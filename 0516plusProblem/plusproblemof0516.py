@@ -22,4 +22,7 @@ while True:
     text1 = input("Word to search?  ")
     number_of_text1 = words.count(text1)
     print(f"Number: {number_of_text1}") 
-    
+
+#Q7 방명록을 작성하는 프로그램을 만들어라. 프로그램을 실행할 때마다 방명록을 visitor,
+#json 파일로 관리하고, 누가 몇번 방문했는지를 알 수 있어야 한다.
+
