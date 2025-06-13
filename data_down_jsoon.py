@@ -1,4 +1,4 @@
-#json.dump() = json 데이터 파일로 저장
+# json.dump() = json 데이터 파일로 저장
 #json.dumps() = json 데이터 문자열로 저장
 #json.load() = 파일에서 json 읽기
 #json.loads() = 문자열에서 json 읽기

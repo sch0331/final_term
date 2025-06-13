@@ -1,4 +1,4 @@
-#0516 실습
+# 0516 실습
 from pathlib import Path
 import json
 
