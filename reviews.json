@@ -1,0 +1,17 @@
+[
+{
+  "user": "Alice",
+  "movie": "Inception",
+  "rating": 5
+},
+{
+  "user": "Tom",
+  "movie": "Avatar",
+  "rating": 4
+},
+{
+  "user": "Charlie",
+  "movie": "Jutopia",
+  "rating": 5
+}
+]

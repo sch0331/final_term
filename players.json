@@ -1,0 +1,7 @@
+{
+  "Harry": {"quest_A": 85, "quest_B": 90},
+  "Ron": {"quest_A": 70, "quest_B": 60},
+  "Hermione": {"quest_A": 95, "quest_B": 88},
+  "Draco": {"quest_A": 60, "quest_B": 75},
+  "Luna": {"quest_A": 90, "quest_B": 92}
+}
